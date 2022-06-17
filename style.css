@@ -1,0 +1,68 @@
+body {
+  background: url(vh.png);
+}
+input[type-text] {
+  width: 100%;
+  height: 100%;
+  padding: 70px 20px;
+  box-sizing: border-box;
+  border: 3px solid rgb(255, 255, 255);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+#kotak1 {
+  background: #640202;
+  box-shadow: 1px 2px 10px rgb(17, 17, 17);
+  height: 420px;
+  margin: 5rem auto 8.1rem auto;
+  width: 410px;
+}
+#kotak2 {
+  background: -webkit-linear-gradient(left, rgb(248, 37, 37), #c53033);
+  box-shadow: 1px 2px 8px rgb(0, 0, 0);
+  height: 420px;
+  margin: 5rem auto 8.1rem auto;
+  width: 410px;
+}
+#kotak-conten {
+  padding: 12px 54px;
+}
+
+#kotak-tittle {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 4px;
+  padding-bottom: 23px;
+  padding-top: 13px;
+  text-align: center;
+}
+#form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+#submit-btn {
+  background: -webkit-linear-gradient(left, rgb(255, 58, 58), rgb(250, 66, 66));
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 1px 8px rgb(238, 62, 9);
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 35px;
+  margin: 0 auto;
+  margin-top: 10%;
+  transition: 0.25%;
+  width: 85px;
+}
+.data1 {
+  font-size: 24px;
+  font-family: ;
+}
+.data2{
+  font-family: fantasy;
+  font-size: 40px;
+}
+.data3{
+
+}
